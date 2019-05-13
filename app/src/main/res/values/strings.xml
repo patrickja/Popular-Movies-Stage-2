@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="content_description_movie_poster">Movie Poster</string>
+    <string name="movie_error">No movie data</string>
+    <string name="menu_fav">Favorites</string>
+    <string name="movie_poster_text">Movie Poster</string>
+    <string name="movie_sort_popular" translatable="false">popular</string>
+    <string name="movie_sort_top_rated" translatable="false">top_rated</string>
+    <string name="review_unavailable">No Reviews Available!</string>
+    <string name="review">Reviews</string>
+    <string name="trailer_unavailable">No Trailers Available!</string>
+    <string name="trailer">Trailers</string>
+</resources>

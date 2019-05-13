@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="no_space">0dp</dimen>
+    <dimen name="layout_margin_smallest">2dp</dimen>
+    <dimen name="layout_margin_mid">8dp</dimen>
+    <dimen name="detail_vote">14dp</dimen>
+    <dimen name="padding_mid">16dp</dimen>
+    <dimen name="errorText">20sp</dimen>
+    <dimen name="button_dimens">42dp</dimen>
+    <dimen name="img_width">150dp</dimen>
+    <dimen name="elevationZ">2dp</dimen>
+    <dimen name="reviewTV">-40dp</dimen>
+</resources>
